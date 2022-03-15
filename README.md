@@ -1,10 +1,10 @@
-# FIT BUDDY
+# FITALITY
 A website created by *Eonna Castañeda* for you to be fit!
 
 ![alt text](https://media.istockphoto.com/vectors/men-and-women-of-different-race-working-out-together-at-park-local-vector-id1205926103?k=20&m=1205926103&s=170667a&w=0&h=_eDsSJYdnItN2zzWuxcqu58eFaASeEuz-acILac9vZk=)
 
-## STRETCHING 
-### It is a must for us to do stretching exercises for us to be prepared for the main work-out!
+# STRETCHING 
+### *It is a must for us to do stretching exercises for us to be prepared for the main work-out!*
 
 1. Head Tilts
 ![alt text](https://www.spotebi.com/wp-content/uploads/2014/10/neck-stretch-exercise-illustration.jpg)
@@ -41,7 +41,20 @@ A website created by *Eonna Castañeda* for you to be fit!
 
 
 
+7. Knee hugs
+![alt text](https://www.spotebi.com/wp-content/uploads/2014/10/high-knees-exercise-illustration.jpg)
+*Hug your knee for 16 seconds each*
 
+8. Quad Stretch
+![alt text](https://www.spotebi.com/wp-content/uploads/2015/03/quad-stretch-exercise-illustration.jpg)
+*Hug your knee for 16 seconds each*
+
+9. Jumping Jacks
+![alt text](https://www.spotebi.com/wp-content/uploads/2014/10/jumping-jacks-exercise-illustration.jpg)
+*Do this 16 times*
+
+
+### This is the end of our dynamic Stretching. I hope you feel more energized than you were before! 🌞
 
 
 
